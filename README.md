@@ -12,6 +12,8 @@
   
   ## Installation 
   Just open the Heroku deployment link will be provided below
+  
+  heroku: https://my-portfolio-react.herokuapp.com/
   ## Usage 
   Look at what i've done :)
   ## License 
